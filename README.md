@@ -40,7 +40,7 @@ I believe technology is most powerful when it connects emotion and innovation �
 
 | Project               | Description                                         | Link / Status                 |
 |-----------------------|-----------------------------------------------------|-------------------------------|
-| 🕊️ SoulSpark          | AI-powered emotional wellness & journaling platform | [mysoul.vercel.app](https://mysoul.vercel.app) |
+| 🕊️ SoulSpark          | AI-powered emotional wellness & journaling platform | |
 | 💫 SoulSync           | AI Mood Companion (Hack4Health)                     | —                             |
 | 🌍 Cosmos Explorer    | NASA API-based real-time space & Mars rover data    | —                             |
 | 🍎 NutriGuide         | Smart nutrition/wellness guide app                  | —                             |
